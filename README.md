@@ -23,3 +23,7 @@ conda install -c conda-forge jupyterlab
 ```
 jupyter lab
 ```
+만약 ssh연결로 사용하고 있으면
+```
+jupyter lab --ip=0.0.0.0
+```
