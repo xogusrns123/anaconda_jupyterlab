@@ -17,6 +17,12 @@ conda create -name my_env
 conda activate my_env
 ```
 
+만약 conda command not found error
+bash shell로 실행하기
+'''
+bash
+'''
+
 ### 3. Install Jupyter lab
 ```
 conda install -c conda-forge jupyterlab
